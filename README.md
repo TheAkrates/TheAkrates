@@ -1,11 +1,6 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/952b68b0-5336-4d69-b886-4915c7924169" alt="Descrição da Imagem" width="600" height="100" />
+    <img src="https://github.com/user-attachments/assets/120dc53a-b334-4b5b-8299-cb478a0f5f83" alt="Descrição da Imagem" width="600" height="100" />
 </div>
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/9aedbe76-8c2f-4ac7-a219-b5b36af90902" alt="Devil ghost" width="600" height="600"/>
-</div>
-
 
 
 <p align="center">
