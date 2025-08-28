@@ -2,9 +2,8 @@
     <img src="https://github.com/user-attachments/assets/f992c5f7-c960-4ffe-aa1d-316b0b330065" alt="Descrição da Imagem" width="600" height="100" />
 </div>
 
-
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/cf637ec8-8ef8-445e-9daf-ca9e98e6ee6a" alt="Devil ghost" width="600" height="600"/>
+    <img src="ChatGPT Image 28 de ago  de 2025, 09_47_01" src="https://github.com/user-attachments/assets/9aedbe76-8c2f-4ac7-a219-b5b36af90902" alt="Devil ghost" width="600" height="600"/>
 </div>
 
 
