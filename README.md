@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-    <img src="ChatGPT Image 28 de ago  de 2025, 09_47_01" src="https://github.com/user-attachments/assets/9aedbe76-8c2f-4ac7-a219-b5b36af90902" alt="Devil ghost" width="600" height="600"/>
+    <img src="https://github.com/user-attachments/assets/9aedbe76-8c2f-4ac7-a219-b5b36af90902" alt="Devil ghost" width="600" height="600"/>
 </div>
+
 
 
 <p align="center">
